@@ -1,0 +1,39 @@
+&CONTROL
+  t_end = 5.0e-9,
+  bc_min = 1,
+  bc_max = 2,
+  use_hydro = T,
+  use_laser = T,
+  use_ele_conduction = T,
+  use_ion_conduction = T,
+  use_temp_equil = T,
+  use_flux_limiter_ele = T,
+  use_flux_limiter_ion = T,
+  nstatus = 1000,
+  dt_snapshot = 1.0e-11,
+  restart_snapshot = 0,
+  coulomb_log = 5.0,
+  coulomb_log_ii = 5.0,
+  flux_limiter_ele = 0.06,
+  flux_limiter_ion = 0.5,
+/
+
+! CH ablator
+&MATERIAL_NML
+  a_bar = 6.5,
+  z_ion = 3.5,
+  eos_number = 0,
+/
+! Vacuum
+&MATERIAL_NML
+  a_bar = 0.0,
+  z_ion = 0.0,
+/
+
+&OUTPUT_NML
+  output_temperature = T,
+  output_laser_deposition = T,
+  output_pressure = F,
+  output_charge_state = F,
+  output_heat_capacity = F,
+/

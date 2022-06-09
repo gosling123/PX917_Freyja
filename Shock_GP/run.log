@@ -1,0 +1,31 @@
+ Welcome to Freyja-beta.
+ Restart File parsed correctly.
+ Initial conditions OK!
+Completed step   1000 at time =  0.410626225E-09 with dt =  0.223341555E-12
+Completed step   2000 at time =  0.631073936E-09 with dt =  0.242699316E-12
+Completed step   3000 at time =  0.921818667E-09 with dt =  0.383250743E-12
+Completed step   4000 at time =  0.133810711E-08 with dt =  0.440186544E-12
+Completed step   5000 at time =  0.180868583E-08 with dt =  0.500518114E-12
+Completed step   6000 at time =  0.205467817E-08 with dt =  0.171040107E-12
+Completed step   7000 at time =  0.220547811E-08 with dt =  0.138464657E-12
+Completed step   8000 at time =  0.234416528E-08 with dt =  0.138681409E-12
+Completed step   9000 at time =  0.249247945E-08 with dt =  0.164355163E-12
+Completed step  10000 at time =  0.264487422E-08 with dt =  0.139986729E-12
+Completed step  11000 at time =  0.277583340E-08 with dt =  0.123370501E-12
+Completed step  12000 at time =  0.291887124E-08 with dt =  0.167372489E-12
+Completed step  13000 at time =  0.309943542E-08 with dt =  0.195607075E-12
+Completed step  14000 at time =  0.331363398E-08 with dt =  0.234893342E-12
+Completed step  15000 at time =  0.357385239E-08 with dt =  0.282857010E-12
+Completed step  16000 at time =  0.386615449E-08 with dt =  0.300535326E-12
+Completed step  17000 at time =  0.417614969E-08 with dt =  0.319458064E-12
+Completed step  18000 at time =  0.450367543E-08 with dt =  0.335907360E-12
+Completed step  19000 at time =  0.467798072E-08 with dt =  0.918908158E-13
+Completed step  20000 at time =  0.477369719E-08 with dt =  0.100233650E-12
+Completed step  21000 at time =  0.487962390E-08 with dt =  0.112135290E-12
+Completed step  22000 at time =  0.499921878E-08 with dt =  0.127681727E-12
+Completed step  23000 at time =  0.513622114E-08 with dt =  0.147150684E-12
+Completed step  24000 at time =  0.529524745E-08 with dt =  0.171812007E-12
+Completed step  25000 at time =  0.547066433E-08 with dt =  0.169392710E-12
+Completed step  26000 at time =  0.565835109E-08 with dt =  0.207898669E-12
+Completed step  27000 at time =  0.589100107E-08 with dt =  0.260177816E-12
+ Code terminated normally.
